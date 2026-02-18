@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Tyler 👋
 
-<!--
-**Tyler-Marsh2545/Tyler-Marsh2545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Graduate | Technical Support Engineer | Infrastructure & Cloud**
 
-Here are some ideas to get you started:
+[![Interactive Resume](https://img.shields.io/badge/Interactive_Resume-Hosted_on_Azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/YOUR_USERNAME/YOUR_STATIC_SITE_REPO) 
+*(Click above to view my static web application and interactive resume)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Navigation:** [👨‍💻 About Me](#-about-me) | [🔬 Projects & Labs](#-projects--labs) | [💻 Technical Skills](#-technical-skills) | [🏆 Certifications](#-certifications)
+
+---
+
+## 👨‍💻 About Me
+
+I am an Information Technology professional graduating with a Bachelor's degree in Cybersecurity from Colorado State University Global. Before pivoting fully into IT infrastructure, I served as a mentor for at-risk students and taught computer fundamentals to 600+ K-5 students at a Title 1 elementary school. This experience honed my ability to break down complex technical concepts for any audience.
+
+**Hudu Technologies | Technical Support Engineer** *(Apr 2023 – Nov 2024)*
+Most recently, I worked at Hudu (IT documentation software), where I bridged the gap between complex infrastructure and client needs. I regularly met with Managed Service Provider (MSP) CEOs and System Admins to explain technical details, troubleshoot errors, and communicate billing and bug resolution timelines. 
+
+**Key Technical Achievements:**
+* **Identity & Access Management:** Configured and validated SAML/SSO integrations (Entra ID, Okta, etc.). Troubleshot cryptographic hash mismatches (SHA256) and certificate errors to ensure secure auth flows.
+* **Network Hardening & Security Engineering:** Supported the deployment of Cloudflare Zero Trust Tunnels, helping clients replace insecure port forwarding with encrypted tunnels. Re-engineered Nginx configs to force HTTPS redirection, eliminating insecure port 80 access. Troubleshot varying TLS certificate setups and errors.
+* **Infrastructure Ops:** Executed complex server migrations and critical PostgreSQL upgrades in production, minimizing data loss risks for Hudu’s MSP clients. Troubleshot Linux servers running Docker Compose.
+* **Cloud Deployment Enablement:** Authored a step-by-step guide for deploying the Hudu platform on Microsoft Azure virtual machines, including VM provisioning and application setup.
+* **Compliance:** Identified and remediated a critical security gap in the official Cloudflare Zero Trust Tunnel guide.
+* **Automation:** Developed a Python script utilizing AI to automate sandbox data population, significantly reducing replication time.
+* **Performance & Documentation:** Led the team in ticket resolution (5,000+ tickets) while maintaining >95% CSAT. Developed a comprehensive internal knowledge base and technical guides to standardize troubleshooting.
+
+---
+
+## 🔬 Projects & Labs
+
+### 🛠️ Custom Hands-On Lab Projects
+* **[Project Name]** - [Brief 1-2 sentence description of what you built, the tools used, and the problem it solved.]
+    * [Link to repository]
+* **[Project Name]** - [Brief 1-2 sentence description.]
+    * [Link to repository]
+
+### 📚 Hands-On Learning Labs
+* **[Lab Title]** - [Brief description of the guided lab and the skills acquired.]
+    * [Link to documentation/repository]
+* **[Lab Title]** - [Brief description of the guided lab.]
+    * [Link to documentation/repository]
+
+---
+
+## 💻 Technical Skills
+
+* **Networking & Cloud:** Microsoft Azure, Cloudflare Zero Trust, DNS
+* **Security & IAM:** SAML/SSO (Okta, Entra ID), TLS/SSL Certificates, Nginx Security Hardening
+* **Operating Systems:** Linux, Windows Server
+* **Containerization & Databases:** Docker Compose, PostgreSQL
+* **Programming & Automation:** Python
+* **Tools:** Hudu, [Add other tools]
+
+---
+
+## 🏆 Certifications
+
+### Core Certifications
+* **Associate of ISC2** - [View Badge](https://www.credly.com/earner/earned/badge/b2278411-4b75-4079-87fe-23722196c11e)
+* **CompTIA Network+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/460fd484-fad9-4881-b1cf-d1cf066fc78c)
+* **CompTIA Security+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/5a6801d3-9e21-4fae-9d55-fcf14a7c1598)
+* **CompTIA CySA+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/2c7dcbfa-4c09-4492-ac08-20eac2720f88)
+* **CompTIA PenTest+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/d2cce927-a26f-45c5-97ac-46df690981e0)
+
+### CompTIA Stackable Certifications
+* **CompTIA Network Security Professional – CNSP** - [View Badge](https://www.credly.com/earner/earned/badge/32e27655-1fa2-4a78-9b12-3e842f6cd84a)
+* **CompTIA Network Vulnerability Assessment Professional – CNVP** - [View Badge](https://www.credly.com/earner/earned/badge/1ecbbe6a-a49c-4164-824a-fc5cbf152cfb)
+* **CompTIA Security Analytics Professional – CSAP** - [View Badge](https://www.credly.com/earner/earned/badge/c925e362-34e3-490b-a026-82bc97402982)
+
+---
+
+## 🎯 Continuous Learning
+
+I am consistently working to sharpen my defensive security, cloud, and information technology skills. 
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5451321.png)](https://tryhackme.com/p/5451321)
+
