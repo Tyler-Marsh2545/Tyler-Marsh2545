@@ -29,17 +29,11 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 ## 🔬 Projects & Labs
 
-### 🛠️ Custom Hands-On Lab Projects
-* **[Project Name]** - [Brief 1-2 sentence description of what you built, the tools used, and the problem it solved.]
+*Projects in this section are comprehensive, multi-step environments I engineered to solve real-world infrastructure and security challenges.*
+* **[Major Project Name]** - [Brief 1-2 sentence description of the architecture, tools used, and the business problem solved.]
     * [Link to repository]
-* **[Project Name]** - [Brief 1-2 sentence description.]
+* **[Major Project Name]** - [Brief 1-2 sentence description.]
     * [Link to repository]
-
-### 📚 Hands-On Learning Labs
-* **[Lab Title]** - [Brief description of the guided lab and the skills acquired.]
-    * [Link to documentation/repository]
-* **[Lab Title]** - [Brief description of the guided lab.]
-    * [Link to documentation/repository]
 
 ---
 
