@@ -11,18 +11,18 @@
 
 ## 👨‍💻 About Me
 
-I am an Information Technology professional graduating with a Bachelor's degree in Cybersecurity from Colorado State University Global. Before pivoting fully into IT infrastructure, I served as a mentor for at-risk students and taught computer fundamentals to 600+ K-5 students at a Title 1 elementary school. This experience honed my ability to break down complex technical concepts for any audience.
+I am an Information Technology professional with a Bachelor's degree in Cybersecurity from Colorado State University Global. Before pivoting fully into information technology, I served as a mentor for at-risk students at a non-profit and taught computer science to 600+ K-5 students at a Title 1 elementary school. This experience honed my ability to break down complex technical concepts for any audience.
 
 **Hudu Technologies | Technical Support Engineer** *(Apr 2023 – Nov 2024)*
-Most recently, I worked at Hudu (IT documentation software), where I bridged the gap between complex infrastructure and client needs. I regularly met with Managed Service Provider (MSP) CEOs and System Admins to explain technical details, troubleshoot errors, and communicate billing and bug resolution timelines. 
+Most recently, I worked at Hudu (IT documentation software), where I bridged the gap between complex infrastructure and client needs. I regularly met with Managed Service Provider (MSP) CEOs and System Admins to explain technical details about Hudu, how to host Hudu, troubleshot errors they experienced, and communicate billing and bug resolution timelines. 
 
 **Key Technical Achievements:**
-* **Identity & Access Management:** Configured and validated SAML/SSO integrations (Entra ID, Okta, etc.). Troubleshot cryptographic hash mismatches (SHA256) and certificate errors to ensure secure auth flows.
+* **Identity & Access Management:** Set up integrations between clients SAML/SSO providers (Entra ID, Okta, etc.) to work with the Hudu software. Troubleshot cryptographic hash mismatches (SHA256) and certificate errors to ensure secure auth flows.
 * **Network Hardening & Security Engineering:** Supported the deployment of Cloudflare Zero Trust Tunnels, helping clients replace insecure port forwarding with encrypted tunnels. Re-engineered Nginx configs to force HTTPS redirection, eliminating insecure port 80 access. Troubleshot varying TLS certificate setups and errors.
 * **Infrastructure Ops:** Executed complex server migrations and critical PostgreSQL upgrades in production, minimizing data loss risks for Hudu’s MSP clients. Troubleshot Linux servers running Docker Compose.
-* **Cloud Deployment Enablement:** Authored a step-by-step guide for deploying the Hudu platform on Microsoft Azure virtual machines, including VM provisioning and application setup.
+* **Cloud Deployment Enablement:** Authored an internal step-by-step guide for deploying the Hudu platform on Microsoft Azure virtual machines, including VM provisioning and application setup.
 * **Compliance:** Identified and remediated a critical security gap in the official Cloudflare Zero Trust Tunnel guide.
-* **Automation:** Developed a Python script utilizing AI to automate sandbox data population, significantly reducing replication time.
+* **Automation:** Developed a Python script utilizing AI to automate sandbox data population, significantly reducing error replication time.
 * **Performance & Documentation:** Led the team in ticket resolution (5,000+ tickets) while maintaining >95% CSAT. Developed a comprehensive internal knowledge base and technical guides to standardize troubleshooting.
 
 ---
@@ -45,12 +45,12 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 ## 💻 Technical Skills
 
-* **Networking & Cloud:** Microsoft Azure, Cloudflare Zero Trust, DNS
-* **Security & IAM:** SAML/SSO (Okta, Entra ID), TLS/SSL Certificates, Nginx Security Hardening
+* **Networking & Cloud:** Microsoft Azure, Cloudflare Zero Trust, DNS, Nginx, Digital Ocean 
+* **Security & IAM:** SAML/SSO (Okta, Entra ID), TLS/SSL Certificates
 * **Operating Systems:** Linux, Windows Server
 * **Containerization & Databases:** Docker Compose, PostgreSQL
-* **Programming & Automation:** Python
-* **Tools:** Hudu, [Add other tools]
+* **Programming & Automation:** Python Scripting, Basic PowerShell, Postman/Insomnia 
+* **IT Software Used:** Hudu, ConnectWise, NinjaOne, Autotask, Syncro, Auvik, CW ScreenConnect, Datto RMM, Discord, HaloPSA, Liongard, OpenAI, Grok, Gemini 
 
 ---
 
