@@ -49,16 +49,16 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 ## 🏆 Certifications
 
 ### Core Certifications
-* **Associate of ISC2** - [View Badge](https://www.credly.com/earner/earned/badge/b2278411-4b75-4079-87fe-23722196c11e)
-* **CompTIA Network+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/460fd484-fad9-4881-b1cf-d1cf066fc78c)
-* **CompTIA Security+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/5a6801d3-9e21-4fae-9d55-fcf14a7c1598)
-* **CompTIA CySA+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/2c7dcbfa-4c09-4492-ac08-20eac2720f88)
-* **CompTIA PenTest+ ce Certification** - [View Badge](https://www.credly.com/earner/earned/badge/d2cce927-a26f-45c5-97ac-46df690981e0)
+* **Associate of ISC2** - [View Badge](https://www.credly.com/badges/b2278411-4b75-4079-87fe-23722196c11e/public_url)
+* **CompTIA Network+ ce Certification** - [View Badge](https://www.credly.com/badges/460fd484-fad9-4881-b1cf-d1cf066fc78c/public_url)
+* **CompTIA Security+ ce Certification** - [View Badge](https://www.credly.com/badges/5a6801d3-9e21-4fae-9d55-fcf14a7c1598/public_url)
+* **CompTIA CySA+ ce Certification** - [View Badge](https://www.credly.com/badges/2c7dcbfa-4c09-4492-ac08-20eac2720f88/public_url)
+* **CompTIA PenTest+ ce Certification** - [View Badge](https://www.credly.com/badges/d2cce927-a26f-45c5-97ac-46df690981e0/public_url)
 
 ### CompTIA Stackable Certifications
-* **CompTIA Network Security Professional – CNSP** - [View Badge](https://www.credly.com/earner/earned/badge/32e27655-1fa2-4a78-9b12-3e842f6cd84a)
-* **CompTIA Network Vulnerability Assessment Professional – CNVP** - [View Badge](https://www.credly.com/earner/earned/badge/1ecbbe6a-a49c-4164-824a-fc5cbf152cfb)
-* **CompTIA Security Analytics Professional – CSAP** - [View Badge](https://www.credly.com/earner/earned/badge/c925e362-34e3-490b-a026-82bc97402982)
+* **CompTIA Network Security Professional – CNSP** - [View Badge](https://www.credly.com/badges/32e27655-1fa2-4a78-9b12-3e842f6cd84a/public_url)
+* **CompTIA Network Vulnerability Assessment Professional – CNVP** - [View Badge](https://www.credly.com/badges/1ecbbe6a-a49c-4164-824a-fc5cbf152cfb/public_url)
+* **CompTIA Security Analytics Professional – CSAP** - [View Badge](https://www.credly.com/badges/c925e362-34e3-490b-a026-82bc97402982/public_url)
 
 ---
 
