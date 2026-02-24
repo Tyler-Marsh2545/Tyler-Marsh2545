@@ -27,7 +27,7 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 ## 🔬 Projects & Labs
 
-### 🛠️ [Project Portfolio](https://github.com/Tyler-Marsh2545/YOUR_PORTFOLIO_REPO_NAME)
+### 🛠️ [Project Portfolio](https://github.com/Tyler-Marsh2545/Lab-Portfolio)
 
 
 ### 🧪 [Hands-On Training Labs](https://github.com/Tyler-Marsh2545/Training-Labs/blob/main/README.md)
