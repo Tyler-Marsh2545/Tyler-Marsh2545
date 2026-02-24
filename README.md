@@ -66,5 +66,7 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 I am consistently working to sharpen my defensive security, cloud, and information technology skills. 
 
-[![Tyler Marsh TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/marsh.j.tyler.png)](https://tryhackme.com/p/marsh.j.tyler)
+View my progress on TryHackMe: [https://tryhackme.com/p/marsh.j.tyler](https://tryhackme.com/p/marsh.j.tyler)
+
+
 
