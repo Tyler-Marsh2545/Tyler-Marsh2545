@@ -11,17 +11,32 @@
 
 I am an Information Technology professional with a Bachelor's degree in Cybersecurity from Colorado State University Global. Before pivoting fully into information technology, I served as a mentor for at-risk students at a non-profit and taught computer science to 600+ K-5 students at a Title 1 elementary school. This experience honed my ability to break down complex technical concepts for any audience.
 
-**Hudu Technologies | Technical Support Engineer** *(Apr 2023 – Nov 2024)*
-Most recently, I worked at Hudu (IT documentation software), where I bridged the gap between complex infrastructure and client needs. I regularly met with Managed Service Provider (MSP) CEOs and System Admins to explain technical details about Hudu, how to host Hudu, troubleshot errors they experienced, and communicate billing and bug resolution timelines. 
+### Professional Experience
 
-**Key Technical Achievements:**
-* **Identity & Access Management:** Set up integrations between clients SAML/SSO providers (Entra ID, Okta, etc.) to work with the Hudu software. Troubleshot cryptographic hash mismatches (SHA256) and certificate errors to ensure secure auth flows.
-* **Network Hardening & Security Engineering:** Supported the deployment of Cloudflare Zero Trust Tunnels, helping clients replace insecure port forwarding with encrypted tunnels. Re-engineered Nginx configs to force HTTPS redirection, eliminating insecure port 80 access. Troubleshot varying TLS certificate setups and errors.
-* **Infrastructure Ops:** Executed complex server migrations and critical PostgreSQL upgrades in production, minimizing data loss risks for Hudu’s MSP clients. Troubleshot Linux servers running Docker Compose.
-* **Cloud Deployment Enablement:** Authored an internal step-by-step guide for deploying the Hudu platform on Microsoft Azure virtual machines, including VM provisioning and application setup.
-* **Compliance:** Identified and remediated a critical security gap in the official Cloudflare Zero Trust Tunnel guide.
-* **Automation:** Developed a Python script utilizing AI to automate sandbox data population, significantly reducing error replication time.
-* **Performance & Documentation:** Led the team in ticket resolution (5,000+ tickets) while maintaining >95% CSAT. Developed a comprehensive internal knowledge base and technical guides to standardize troubleshooting.
+**Hudu Technologies | Technical Support Engineer** *(Apr 2023 – Nov 2024)*
+
+* **Identity & Access Management:** Configured/validated SAML/SSO integrations (Entra ID, Okta, and others). This helped MSP customers secure their Hudu instance and ensure their IT documentation is secure. 
+* **Network Hardening:** Supported customers in deploying Cloudflare Zero Trust Tunnels, helping clients secure IT documentation software through encrypted tunnels. Helped develop a support guide for using Let'sEncrypt TLS certificates using the Cloudflare DNS-01 DNS challenge. This allowed customers to be more secure and have a TLS certificate while keeping ports 80 and 443 outbound closed. 
+* **Infrastructure Ops:** Helped customers perform server migrations and PostgreSQL upgrades in their production Hudu environment, minimizing data loss risks for Hudu’s MSP clients. Helped customers configure S3 buckets for backups.
+* **Security Engineering:** Built a custom nginx default.conf to not allow users to browse to their Hudu server on port 80. By doing this, it kept Hudu customers secure and ensured they were only using Hosted Hudu instances on port 443 with a TLS certificate. 
+* **Compliance:** Identified/remediated a critical security gap in the official Cloudflare Zero Trust Tunnel guide.
+* **Automation:** Developed a Python script to automate sandbox data population, reducing error replication time. Developed a PowerShell script to record system stats using the `df -h` command and upload those stats via the API to Hudu Magic Dash to allow customers to keep track of their server stats. 
+* **Performance:** Led the Hudu team in ticket resolution (5000+ tickets), maintaining 95+% CSAT.
+* **Documentation:** Developed an internal knowledge base and technical guides to standardize troubleshooting and help newer techs become operational faster.
+* **Cloud Deployment Enablement:** Authored a step-by-step guide for deploying the Hudu platform on Microsoft Azure virtual machines, including VM provisioning and Hudu application setup.
+* **Virtualization:** Built and managed Ubuntu virtual machines in DigitalOcean on a daily basis to help with staging, testing, and customer environment replication.
+* **Log Analysis:** Analyzed Docker Compose and system logs for many hours a day to identify root causes for errors in the Hudu application and the hosting server. 
+* **Startup Research & Development:** Worked as a team to investigate, resolve, and escalate to developers undocumented "day-zero" bugs. Researched solutions to technical problems hosting the Hudu software that had no current solution or guide, and documented the solution so the whole Hudu team knew how to resolve these errors in the future. This helped customers maintain satisfaction with the Hudu product by having their unique and sometimes isolated errors fixed promptly.
+
+**School District 51 | Computer Teacher Para** *(Aug 2022 – Apr 2023)*
+* Instructed ~400 K-5 students in computer science fundamentals (Code.org).
+* Managed classes of 35+ students. Delivered presentations and developed computer science lesson plans. 
+* Taught students how to use Dash robots and developed custom Dash robot activities to increase learning.
+* Started the first 3D printing program at Chatfield Elementary and developed custom lessons for students on how to use, design STL objects, and build 3D printers. 
+
+**Riverside Educational Center | Academic Tutor** *(Jan 2021 – July 2022)*
+* Mentored at-risk students, helped with academics, drove the school bus, and led large group projects for 80+ students at once.
+* Managed students on multiple-day overnight field trips.
 
 ---
 
