@@ -31,7 +31,7 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 
 ### 🧪 [Hands-On Training Labs](https://github.com/Tyler-Marsh2545/Training-Labs/blob/main/README.md)
-* **[Click here to view the full lab index and documentation.](https://github.com/Tyler-Marsh2545/Training-Labs/blob/main/README.md)**
+
 
 ---
 
