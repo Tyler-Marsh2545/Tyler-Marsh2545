@@ -2,8 +2,6 @@
 
 **Cybersecurity Graduate | Technical Support Engineer | Infrastructure & Cloud**
 
-[![Interactive Resume](https://img.shields.io/badge/Interactive_Resume-Hosted_on_Azure-blue?style=for-the-badge&logo=microsoftazure)](https://github.com/YOUR_USERNAME/YOUR_STATIC_SITE_REPO) 
-*(Click above to view my static web application and interactive resume)*
 
 **Navigation:** [👨‍💻 About Me](#-about-me) | [🔬 Projects & Labs](#-projects--labs) | [💻 Technical Skills](#-technical-skills) | [🏆 Certifications](#-certifications)
 
@@ -29,11 +27,11 @@ Most recently, I worked at Hudu (IT documentation software), where I bridged the
 
 ## 🔬 Projects & Labs
 
-*Projects in this section are comprehensive, multi-step environments I engineered to solve real-world infrastructure and security challenges.*
-* **[Major Project Name]** - [Brief 1-2 sentence description of the architecture, tools used, and the business problem solved.]
-    * [Link to repository]
-* **[Major Project Name]** - [Brief 1-2 sentence description.]
-    * [Link to repository]
+### 🛠️ [Project Portfolio](https://github.com/Tyler-Marsh2545/YOUR_PORTFOLIO_REPO_NAME)
+
+
+### 🧪 [Hands-On Training Labs](https://github.com/Tyler-Marsh2545/Training-Labs/blob/main/README.md)
+* **[Click here to view the full lab index and documentation.](https://github.com/Tyler-Marsh2545/Training-Labs/blob/main/README.md)**
 
 ---
 
